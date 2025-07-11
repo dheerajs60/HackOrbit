@@ -1,7 +1,7 @@
 {
     "rewrites": [
         {
-            "source":"HackOrbit/main.html",
+            "source":"/",
             "destination":"HackOrbit/login.html"
         }
     ]
