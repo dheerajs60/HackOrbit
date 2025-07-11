@@ -2,7 +2,7 @@
     "rewrites": [
         {
             "source":"/",
-            "destination":"HackOrbit/login.html"
+            "destination":"/login.html"
         }
     ]
 }
